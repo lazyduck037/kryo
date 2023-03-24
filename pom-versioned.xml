@@ -8,7 +8,7 @@
 		<relativePath>./pom.xml</relativePath>
 	</parent>
 
-	<groupId>com.esotericsoftware.kryo</groupId>
+	<groupId>com.esotericsoftware.kryo5</groupId>
 	<artifactId>kryo${kryo.major.version}</artifactId>
 	<packaging>jar</packaging>
 
